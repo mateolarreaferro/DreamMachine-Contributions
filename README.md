@@ -28,4 +28,4 @@ Van Troyer is an Assistant Professor of Electronic Production and Design at Berk
 
 
 ## Acknowledgments 
-This tools were developed under the mentorship of [Chris Lane](https://chris-lane.com/) and [Akito Van Troyer](https:https://vantroyer.com/)
+This tools were developed under the mentorship of [Chris Lane](https://chris-lane.com/) and [Akito Van Troyer](https://vantroyer.com/)
