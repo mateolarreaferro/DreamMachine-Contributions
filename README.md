@@ -12,7 +12,7 @@ Van Troyer is an Assistant Professor of Electronic Production and Design at Berk
 
 
 
-##Scripts
+## Scripts
 
 1. **AuroraManager.cs:** Audio Reactive system that creates an overall shape based on a series of given parameter, and animates individual objects inputed by user/developer by changing scale, rotation, and movement based on an audio clip.
 2. **FFTGrandManager.cs:** System created based on AuroraManager.cs but for static objects.
@@ -27,5 +27,5 @@ Van Troyer is an Assistant Professor of Electronic Production and Design at Berk
 
 
 
-##Acknowledgments 
+## Acknowledgments 
 This tools were developed under the mentorship of [Chris Lane](https://chris-lane.com/) and [Akito Van Troyer](https:https://vantroyer.com/)
