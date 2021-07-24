@@ -18,12 +18,14 @@ Van Troyer is an Assistant Professor of Electronic Production and Design at Berk
 2. **FFTGrandManager.cs:** System created based on AuroraManager.cs but for static objects.
 3. **BirdBehaviour.cs:** Behaviour that triggers the AudioSource of a Gameobject based on randomness.
 4. **BirdsManager.cs:** System that creates an area of GameObjects with AudioSources based on distance and height parameters and then assigns different audio clips that simulate an environment populated by different types of birds.
-5. **HealthBarCrown:** Simple system that counts down the number of times this character can be hit before getting destroyed. Aditionally, it triggers events in Wwise and a Haptics system developed by Chris Lane. 
+5. **HealthBarCrown.cs:** Simple system that counts down the number of times this character can be hit before getting destroyed. Aditionally, it triggers events in Wwise and a Haptics system developed by Chris Lane. 
 6. **PickUp.cs**: Simple system that counts the number of times the player picks up an object and updates the UI
 7. **SelectionManager.cs**: System that uses raycast to detect and change the material of an 'interactable' object based on where the player is looking at.
 8. **Spline.cs**: System that determines the shortest distance (based on a sequence of points in space) to a moving target. 
 9. **SplineMover.cs**: Tracks the player and follows its movement through the predetermined sequence of points. This optimizes the use of audio sources in a scene as it only uses one that moves with the player.
 10. **TimeKeeperTickTockManager.cs:** a metronome-like system that allows the increase or dicrease of the playing frequency of an audio clip.  
+11. **ShaderAurora.cs:** Aurora system but modifying parameters in shadergraph.
+12. **MushroomPathR.cs:** System that reveals the path in a gradual way.
 
 
 
